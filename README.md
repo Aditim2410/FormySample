@@ -6,4 +6,4 @@ This project is created for Selenium different actions demo
 
 
 
-2.Scroll action is covered
+ 2.Scroll action is covered
